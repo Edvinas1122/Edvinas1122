@@ -1,8 +1,9 @@
-<h2 align="center">Hi there 👋 I'm Edvinas :)<img src='https://github.com/Raspurrin/Raspurrin/blob/main/wave.gif' width='80"'></h2>  
+<h1 align="center">Hi there 👋 I'm Edvinas :)</h1>
+<h2>My Recent Projects</h2>
+<h3>Transcendence</h3>
 
-
+<br>
 <!--
-**Edvinas1122/Edvinas1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
