@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋 I'm Edvinas :)<img src='https://github.com/Raspurrin/Raspurrin/blob/main/wave.gif' width='80"'></h2>  
+
 
 <!--
 **Edvinas1122/Edvinas1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
