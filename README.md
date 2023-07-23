@@ -36,7 +36,7 @@ I have experience with:
 
 | Compiled      | Interpreted            | Markup/Styling |
 |---------------|------------------------|---------------:|
-| C             | JavaScript/TypeScript  | HTML/CSS       |
+| C             | JavaScript/TypeScript  |HTML/CSS       |
 | C++ (std 98)  | PHP                    |                |
 |               | Python                 |                |
 
