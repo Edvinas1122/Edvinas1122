@@ -28,7 +28,7 @@ Linux/Unix Socket server, similar to nginx, programmed in C++.
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 ### Languages
 
@@ -50,7 +50,7 @@ I have experience with:
 - HTML/CSS
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 ### Paradigms
 
@@ -61,6 +61,11 @@ I have experience with:
 - Generic Programming
 - Asynchronous Programming
 - Event-Driven Programming
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
 ### Frameworks
 
@@ -80,7 +85,7 @@ I have experience with:
   - API routes
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 ### Operating Systems and Microcontrollers
 
