@@ -26,6 +26,10 @@ Linux/Unix Socket server, similar to nginx, programmed in C++.
 
 ## Skills
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### Languages
 
 I have experience with:
@@ -41,9 +45,12 @@ I have experience with:
 - Python
 - PHP
 
-#### Markdown
+#### Markup/Styling
 
 - HTML/CSS
+
+</td>
+<td valign="top" width="50%">
 
 ### Paradigms
 
@@ -86,3 +93,7 @@ I have experience with:
   - Familiar with the Arduino IDE
   - Experience with ESP32
   - Brief understanding of real-time programming
+
+</td>
+</tr>
+</table>
