@@ -56,9 +56,6 @@ I have experience with:
 </td>
 </tr>
 </table>
-<table>
-<tr>
-<td valign="top" width="50%">
 
 ### Frameworks
 
@@ -70,10 +67,6 @@ I have experience with:
 | - Hooks             | - Sockets and SSE events    | - Server components      |
 | - Context API        | - Guards and Serialization  | - API routes             |
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
 
 ### Operating Systems and Microcontrollers
 
@@ -87,6 +80,3 @@ I have experience with:
 | - Multiplexing                  |
 | - Multi-threading / Parallel programming |
 
-</td>
-</tr>
-</table>
