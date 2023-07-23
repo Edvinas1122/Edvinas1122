@@ -69,6 +69,8 @@ I have experience with:
 | - Context API        | - Guards and Serialization  | - API routes             |
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 ### Operating Systems and Microcontrollers
