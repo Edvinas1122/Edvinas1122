@@ -35,9 +35,9 @@ Linux/Unix Socket server, similar to nginx, programmed in C++.
 I have experience with:
 
 | Compiled      | Interpreted            | Markup/Styling |
-|---------------|:----------------------:|---------------:|
-| - C           | JavaScript/TypeScript  | HTML/CSS       |
-| - C++ (std 98)| PHP                    |                |
+|---------------|------------------------|---------------:|
+| C             | JavaScript/TypeScript  | HTML/CSS       |
+| C++ (std 98)  | PHP                    |                |
 |               | Python                 |                |
 
 </td>
@@ -61,22 +61,21 @@ I have experience with:
 
 I have experience with:
 
-| - React         | - NestJS                    | - Next.js                 |
-|-----------------|:---------------------------:|--------------------------:|
-| - Component lifecycle  | - Controllers and Providers | - Server-side rendering |
-| - Hooks             | - Sockets and SSE events    | - Server components      |
-| - Context API        | - Guards and Serialization  | - API routes             |
+|React           |NestJS                    |Next.js                  |
+|----------------|---------------------------|-------------------------|
+| Component lifecycle  | Controllers and Providers | Server-side rendering |
+| Hooks             | Sockets and SSE events    | Server components      |
+| Context API        | Guards and Serialization  | API routes             |
 
 
 ### Operating Systems and Microcontrollers
 
 I have experience with:
 
-| - Linux API                     | - Arduino / Microcontrollers |
-|---------------------------------|:----------------------------:|
-| - UNIX sockets                  | - Familiar with the Arduino IDE    |
-| - Polling mechanisms            | - Experience with ESP32            |
-| - Non-blocking programming      | - Brief understanding of real-time programming |
-| - Multiplexing                  |
-| - Multi-threading / Parallel programming |
-
+| Linux API                        | Arduino / Microcontrollers |
+|----------------------------------|-----------------------------|
+| UNIX sockets                     | Familiar with the Arduino IDE    |
+| Polling mechanisms               | Experience with ESP32            |
+| Non-blocking programming         | Brief understanding of real-time programming |
+| Multiplexing                     |
+| Multi-threading / Parallel programming |
