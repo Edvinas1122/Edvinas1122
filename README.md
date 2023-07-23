@@ -34,20 +34,11 @@ Linux/Unix Socket server, similar to nginx, programmed in C++.
 
 I have experience with:
 
-#### Compiled
-
-- C
-- C++ (std 98)
-
-#### Interpreted
-
-- JavaScript/TypeScript
-- Python
-- PHP
-
-#### Markup/Styling
-
-- HTML/CSS
+| Compiled      | Interpreted            | Markup/Styling |
+|---------------|:----------------------:|---------------:|
+| - C           | JavaScript/TypeScript  | HTML/CSS       |
+| - C++ (std 98)| PHP                    |                |
+|               | Python                 |                |
 
 </td>
 <td valign="top" width="50%">
