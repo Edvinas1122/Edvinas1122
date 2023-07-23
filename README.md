@@ -62,18 +62,11 @@ I have experience with:
 
 I have experience with:
 
-- React
-  - Component lifecycle
-  - Hooks
-  - Context API
-- NestJS
-  - Controllers and Providers
-  - Sockets and SSE events
-  - Guards and Serialization
-- Next.js
-  - Server-side rendering
-  - Server components
-  - API routes
+| - React         | - NestJS                    | - Next.js                 |
+|-----------------|:---------------------------:|--------------------------:|
+| - Component lifecycle  | - Controllers and Providers | - Server-side rendering |
+| - Hooks             | - Sockets and SSE events    | - Server components      |
+| - Context API        | - Guards and Serialization  | - API routes             |
 
 </td>
 <td valign="top" width="50%">
@@ -82,16 +75,13 @@ I have experience with:
 
 I have experience with:
 
-- Linux API
-  - UNIX sockets
-  - Polling mechanisms
-  - Non-blocking programming
-  - Multiplexing
-  - Multi-threading / Parallel programming
-- Arduino / Microcontrollers
-  - Familiar with the Arduino IDE
-  - Experience with ESP32
-  - Brief understanding of real-time programming
+| - Linux API                     | - Arduino / Microcontrollers |
+|---------------------------------|:----------------------------:|
+| - UNIX sockets                  | - Familiar with the Arduino IDE    |
+| - Polling mechanisms            | - Experience with ESP32            |
+| - Non-blocking programming      | - Brief understanding of real-time programming |
+| - Multiplexing                  |
+| - Multi-threading / Parallel programming |
 
 </td>
 </tr>
